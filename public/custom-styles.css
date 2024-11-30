@@ -1,0 +1,27 @@
+html {
+    font-size: 16px; /* Taille de base */
+  }
+  
+  body {
+    font-size: 1rem; /* Ajuste si nécessaire */
+    font-family: 'Arial', sans-serif; /* Change la police si nécessaire */
+  }
+  h1 {
+    font-size: 2rem; /* Ajuste la taille des titres principaux */
+  }
+  
+  h2 {
+    font-size: 1.75rem;
+  }
+  
+  p {
+    font-size: 1rem; /* Ajuste la taille des paragraphes */
+  }
+  .text-lg {
+    font-size: 1rem !important; /* Réduit la taille des textes avec cette classe */
+  }
+  
+  .text-sm {
+    font-size: 0.75rem !important;
+  }
+      
